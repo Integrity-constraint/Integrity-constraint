@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **ArsVisual**
 
-- 🌱 I’m currently learning **WPF,RUST,JS**
+- 🌱 I’m currently learning **AVALONIA,RUST,JS**
 
 - 📫 How to reach me **berdyugin.arsen@yandex.ru**
 
