@@ -19,3 +19,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=integrity-constraint&show_icons=true&locale=en" alt="integrity-constraint" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=integrity-constraint&" alt="integrity-constraint" /></p>
+<img src='https://www.gitclear.com/snap_changelogs/229cc023-f4a6-4d27-a111-31e19a79c7d9.png' />
