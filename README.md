@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Arseniy</h1>
 <h3 align="center">A passionate backend developer from Russia</h3>
 
-- 🔭 I’m currently working on **nothing**
+- 🔭 I’m currently working on **Percy**
 
 - 🌱 I’m currently learning **AVALONIA,RUST,JS**
 
